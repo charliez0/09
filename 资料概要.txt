@@ -14,7 +14,7 @@
 
 （4）异核通讯教程 ：
 	
-	请使用【正点原子】STM32MP1异核通讯V1.x.pdf。
+	请使用【正点原子】STM32MP1异核通信(基于CubeIDE) V1.1.pdf。
 
 （5）M4裸机CubeIDE ：
 
